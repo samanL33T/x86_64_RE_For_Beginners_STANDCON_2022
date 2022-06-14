@@ -3,8 +3,8 @@
 
 Contents as well as practice binary for the workshop hosted on 'Linux x86_64 Reverse Engineering for Beginners' during STANDCON 2022.
 
-**- Slides:** Contains the workshop slides
+- **Linux_x86_64_RE_for_Beginners_STANDCON_v1.0.pdf** - workshop slides
 
-**- Lab Worksheet:** Contains the worksheet used for labs
+- **Lab_Worksheet** - Lab Worksheet
 
-**- CTF:** Contains the challenge binary used for analysis and CTF
+- **CTF_Binary** - Contains the challenge binary used for analysis and CTF
