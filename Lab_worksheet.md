@@ -10,7 +10,7 @@ $ git clone https://github.com/samanL33T/x86_64_RE_For_Beginners_STANDCON_2022.g
 ```
  
 
-## Stage 0 - Basis Analysis
+## Stage 0 - Basic Analysis
 
 **Goals:** To perform basic analysis of the binary and :
 - Get familiar with file and strings output
